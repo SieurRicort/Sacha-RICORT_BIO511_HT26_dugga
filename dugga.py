@@ -8,7 +8,7 @@ import random # Used in question 4
 # Question 1
 ## 1.a
 
-my_name = input("SAY MY NAME: ") # my_name is attributed the string sacha
+my_name = input("SAY MY NAME: ") # Takes an input from the user and stores it in my_name
 
 ## 1.b
 
