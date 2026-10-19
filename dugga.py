@@ -12,15 +12,9 @@ my_name = input("SAY MY NAME: ") # Takes an input from the user and stores it in
 
 ## 1.b
 
-print(f" the length of my name is: {len(my_name)}") # I used fprint to print both text and commands
+print(f"The length of my name is: {len(my_name)}") # I used fprint to print both text and commands
 
 ## 1.c
-
-"""
-TO MAKE THE SCRIPT WORK YOU NEED TO PROVIDE AN ARGUMENT, THE NAME OF THE PNG YOU WILL SAVE YOUR PLOT IN
-exemple below
-python3 dugga.py "a"
-"""
 
 def count_letter(my_name, my_letter): # Define the function
     count = 0 # Count is set to 0
